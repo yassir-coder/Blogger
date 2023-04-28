@@ -21,7 +21,7 @@
 	},
 	"notification": {
 		"fcm_notification_topic": "blogger_news_app_topic",
-		"onesignal_app_id": ""
+		"onesignal_app_id": "5dd2255a-0069-4ebe-bb7e-b5cdead1143c"
 	},
 	"ads": {
 		"ad_status": "1",
