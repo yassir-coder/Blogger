@@ -25,7 +25,7 @@
 	},
 	"ads": {
 		"ad_status": "1",
-		"ad_type": "admob",
+		"ad_type": "fan",
 
 		"backup_ads": "none",
 
