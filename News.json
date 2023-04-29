@@ -27,8 +27,6 @@
 		"ad_status": "1",
 		"ad_type": "applovin_max",
 		
-		  // admob, google_ad_manager, fan, startapp, unity, applovin_discovery, applovin_max, ironsource or wortise. 
-
 		"backup_ads": "none",
 
 		"admob_publisher_id": "pub-3940256099942544",
