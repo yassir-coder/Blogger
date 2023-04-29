@@ -5,10 +5,10 @@
 	},
 	"app": {
 		"status": "1",
-		"more_apps_url": "https://play.google.com/store/apps/developer?id=Solodroid",
+		"more_apps_url": "https://play.google.com/store/apps/developer?id=YSF.CODER",
 		"redirect_url": "",
-		"privacy_policy_url": "https://sites.google.com/view/blogger-news-app-privacy",
-		"publisher_info_url": "https://sites.google.com/view/blogger-news-app-publisher",
+		"privacy_policy_url": "https://sites.google.com/view/ysf-application/home",
+		"publisher_info_url": "",
 		"terms_conditions_url": "https://sites.google.com/view/blogger-news-app-terms",
 		"display_page_menu": "true",
 		"display_view_on_site_menu": "true",
