@@ -50,11 +50,11 @@
 		"unity_banner_placement_id": "banner",
 		"unity_interstitial_placement_id": "video",
 
-		"applovin_banner_ad_unit_id": "YOUR_AD_UNIT_ID",
-		"applovin_interstitial_ad_unit_id": "YOUR_AD_UNIT_ID",
-		"applovin_native_ad_manual_unit_id": "YOUR_AD_UNIT_ID",
-		"applovin_banner_zone_id": "YOUR_AD_UNIT_ID",
-		"applovin_interstitial_zone_id": "YOUR_AD_UNIT_ID",
+		"applovin_banner_ad_unit_id": "23a805b6b9803100",
+		"applovin_interstitial_ad_unit_id": "c6fd92e744457a5b",
+		"applovin_native_ad_manual_unit_id": "c90116642179393f",
+		"applovin_banner_zone_id": "23a805b6b9803100",
+		"applovin_interstitial_zone_id": "c6fd92e744457a5b",
 
 		"ironsource_app_key": "85460dcd",
 		"ironsource_banner_id": "DefaultBanner",
