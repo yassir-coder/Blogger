@@ -5,7 +5,7 @@
 	},
 	"app": {
 		"status": "1",
-		"more_apps_url": "https://play.google.com/store/apps/developer?id=YSF.CODER",
+		"more_apps_url": "https://play.google.com/store/apps/developer?id=Anime.Slayer",
 		"redirect_url": "",
 		"privacy_policy_url": "https://sites.google.com/view/ysf-application/home",
 		"publisher_info_url": "",
@@ -25,7 +25,7 @@
 	},
 	"ads": {
 		"ad_status": "1",
-		"ad_type": "applovin_max",
+		"ad_type": "admob",
 		"backup_ads": "none",
 
 		"admob_publisher_id": "pub-3940256099942544",
